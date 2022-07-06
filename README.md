@@ -1,6 +1,10 @@
 # Machine Learning w/ Python
 
-###### 2022 / 07 / 06 WED
+### **ndarray**
+- arrange(): 주어진 범위 내에서 배열 자동 생성
+- zeros(*shape, dtype=float, order='C', \*, like=None*): 입력한 크기(shape)를 가진 모든 원소가 0인 배열 생성 
+- ones(*shape, dtype=float, order='C', \*, like=None*): 입력한 크기(shape)를 가진 모든 원소가 1인 배열 생성 
+
 ### Pandas Index 개요
 - R-DBMS의 Primary Key와 유사하게 DataFrame, Series의 레코드를 고유하게 식별하는 객
 <br>(별도의 컬럼 값은 아님 → 연산에서 제외됨) **오직 식별용으로만 사용**
